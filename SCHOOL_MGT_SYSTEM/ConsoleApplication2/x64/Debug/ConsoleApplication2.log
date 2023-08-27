@@ -1,0 +1,16 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\hp\Downloads\SCHOOL_MGT_SYSTEM\SCHOOL_MGT_SYSTEM\ConsoleApplication2\ConsoleApplication2.cpp(348,20): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\hp\Downloads\SCHOOL_MGT_SYSTEM\SCHOOL_MGT_SYSTEM\ConsoleApplication2\ConsoleApplication2.cpp(702,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\hp\Downloads\SCHOOL_MGT_SYSTEM\SCHOOL_MGT_SYSTEM\ConsoleApplication2\ConsoleApplication2.cpp(644,17): warning C4101: 'result': unreferenced local variable
+C:\Users\hp\Downloads\SCHOOL_MGT_SYSTEM\SCHOOL_MGT_SYSTEM\ConsoleApplication2\ConsoleApplication2.cpp(641,19): warning C4101: 'errMsg': unreferenced local variable
+C:\Users\hp\Downloads\SCHOOL_MGT_SYSTEM\SCHOOL_MGT_SYSTEM\ConsoleApplication2\ConsoleApplication2.cpp(953,19): warning C4101: 'uSalary': unreferenced local variable
+C:\Users\hp\Downloads\SCHOOL_MGT_SYSTEM\SCHOOL_MGT_SYSTEM\ConsoleApplication2\ConsoleApplication2.cpp(954,30): warning C4101: 'uqty': unreferenced local variable
+C:\Users\hp\Downloads\SCHOOL_MGT_SYSTEM\SCHOOL_MGT_SYSTEM\ConsoleApplication2\ConsoleApplication2.cpp(954,17): warning C4101: 'uattendance': unreferenced local variable
+C:\Users\hp\Downloads\SCHOOL_MGT_SYSTEM\SCHOOL_MGT_SYSTEM\ConsoleApplication2\ConsoleApplication2.cpp(1340,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\hp\Downloads\SCHOOL_MGT_SYSTEM\SCHOOL_MGT_SYSTEM\ConsoleApplication2\ConsoleApplication2.cpp(1520,9): warning C4102: 'options': unreferenced label
+C:\Users\hp\Downloads\SCHOOL_MGT_SYSTEM\SCHOOL_MGT_SYSTEM\ConsoleApplication2\ConsoleApplication2.cpp(1629,9): warning C4102: 'options': unreferenced label
+C:\Users\hp\Downloads\SCHOOL_MGT_SYSTEM\SCHOOL_MGT_SYSTEM\ConsoleApplication2\ConsoleApplication2.cpp(1627,17): warning C4101: 'begin': unreferenced local variable
+C:\Users\hp\Downloads\SCHOOL_MGT_SYSTEM\SCHOOL_MGT_SYSTEM\ConsoleApplication2\ConsoleApplication2.cpp(1627,24): warning C4101: 'end': unreferenced local variable
+C:\Users\hp\Downloads\SCHOOL_MGT_SYSTEM\SCHOOL_MGT_SYSTEM\ConsoleApplication2\ConsoleApplication2.cpp(2291,13): warning C4102: 'options': unreferenced label
+C:\Users\hp\Downloads\SCHOOL_MGT_SYSTEM\SCHOOL_MGT_SYSTEM\ConsoleApplication2\ConsoleApplication2.cpp(1857): warning C4715: 'management::adminOperations::AdminLoginAuth': not all control paths return a value
+  ConsoleApplication2.vcxproj -> C:\Users\hp\Downloads\SCHOOL_MGT_SYSTEM\SCHOOL_MGT_SYSTEM\x64\Debug\ConsoleApplication2.exe
